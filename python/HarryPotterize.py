@@ -8,6 +8,8 @@ from opts import get_opts
 
 # Q2.2.4
 
+###
+
 def warpImage(opts):
 
     pass
