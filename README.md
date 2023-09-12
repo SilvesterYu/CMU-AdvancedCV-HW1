@@ -1,3 +1,5 @@
+CMU Fall 2023 Computer Vision Course
+
 ## HW1 - Planar Homography
 
 #### Instructions
